@@ -40,7 +40,7 @@ Email Notifications – Send confirmation or reminders to users about events.
 
 EVENT-REGISTRATION/
 |
-|---src/                   # core application logic
+|---src/                    #core application logic
 |     |---logic.py          #business logic and task
 |operations
 |     |__db.py              #database operations
@@ -104,7 +104,7 @@ CREATE TABLE IF NOT EXISTS registrations (
 );
 
 ``` 
-3. **Get your credentials
+3. **Get your credentialscls
 
 ### 4.Configure environment variables
 
